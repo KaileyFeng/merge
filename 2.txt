@@ -1,3 +1,4 @@
  text 2.txt  
  reset 2.txt
  reset 2.txt again
+ 1234567890
