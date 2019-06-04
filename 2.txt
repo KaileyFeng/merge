@@ -1,1 +1,2 @@
- text 2.txt
+ text 2.txt  
+ reset 2.txt
